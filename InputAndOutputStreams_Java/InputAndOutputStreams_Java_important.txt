@@ -1,0 +1,9 @@
+t- Input and Output Streams in Java
+
+we have input source and output destination. the way that input source sends the data to the Destination via Streams.
+data to one and zero and that data travel as streams.
+A program uses as Input stream to read data from a source, one item at a time.
+A program uses an output stream to write data to a destination, one item at a time.
+Stream can handle all kind of data from primitive values to advanced objects.
+
+ 

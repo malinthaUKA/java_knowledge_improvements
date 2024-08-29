@@ -1,0 +1,8 @@
+t- Java Streams API
+
+They efficiently filter, map and reduce large streams of data.
+They perfume action upon data using lambda expression.
+Lambda expression are a form of functional programming.
+
+List<Employee> employees = new ArrayList<>();
+employees.stream().parallel().filter(e -> e.getSalary()>1000).forEach(e->e.calculateBonus());
